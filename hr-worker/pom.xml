@@ -44,8 +44,6 @@
 			<version>1.18.20</version>
 			<scope>provided</scope>
 		</dependency>
-		<!-- https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-starter-feign -->
-
 
 
 		<dependency>
